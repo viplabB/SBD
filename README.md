@@ -7,9 +7,9 @@ This barcode datasets contains:
 - 100,000 LR synthetic barcode datasets along with along with their corresponding bounding boxes ground truth masks.
 
 ## Size
-The LR datasets (~2.2G) could be downloaded here at [BarcodesLR](https://drive.google.com/drive/u/2/my-drive).
+The LR datasets (~2.2G) could be downloaded here at [BarcodesLR](https://drive.google.com/drive/u/1/my-drive).
 
-The UHR datasets (~150G) could be downloaded in 15G increments at [BarcodesUHR00](), [BarcodesUHR01](), [BarcodesUHR02](), [BarcodesUHR03](), [BarcodesUHR04](), [BarcodesUHR05](), [BarcodesUHR06](), [BarcodesUHR07](), [BarcodesUHR08](), [BarcodesUHR09](), [BarcodesUHR10]().
+The UHR datasets (~150G) could be downloaded in 15G increments at [BarcodesUHR00](https://drive.google.com/drive/u/0/my-drive), [BarcodesUHR01](https://drive.google.com/drive/u/1/my-drive), [BarcodesUHR02](https://drive.google.com/drive/u/2/my-drive), [BarcodesUHR03](https://drive.google.com/drive/u/3/my-drive), [BarcodesUHR04](https://drive.google.com/drive/u/4/my-drive), [BarcodesUHR05](https://drive.google.com/drive/u/4/my-drive), [BarcodesUHR06](https://drive.google.com/drive/u/6/my-drive), [BarcodesUHR07](https://drive.google.com/drive/u/7/my-drive), [BarcodesUHR08](https://drive.google.com/drive/u/8/my-drive), [BarcodesUHR09](https://drive.google.com/drive/u/9/my-drive), [BarcodesUHR10](https://drive.google.com/drive/u/10/my-drive).
 
 
 ## Reference
