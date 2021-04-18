@@ -11,7 +11,7 @@ The LR datasets (~2.2G) could be downloaded here at [BarcodesLR](https://drive.g
 
 The UHR datasets (~150G) could be downloaded in 15G increments at [BarcodesUHR00](https://drive.google.com/drive/u/3/my-drive), [BarcodesUHR01](), [BarcodesUHR02](), [BarcodesUHR03](), [BarcodesUHR04](), [BarcodesUHR05](https://drive.google.com/drive/u/4/my-drive), [BarcodesUHR06](https://drive.google.com/drive/u/6/my-drive), [BarcodesUHR07](https://drive.google.com/drive/u/7/my-drive), [BarcodesUHR08](https://drive.google.com/drive/u/8/my-drive), [BarcodesUHR09](), [BarcodesUHR10]().
 
-## Type of barcodes
+## Types of barcodes
 Code 39, Code 93, Code 128, UPC, EAN, PD417, ITF, Data Matrix, AZTEC, and QR among others.
 
 ## Reference
