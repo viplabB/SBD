@@ -9,7 +9,14 @@ This barcode datasets contains:
 ## Size
 The LR datasets (~2.2G) could be downloaded here at [BarcodesLR](https://drive.google.com/drive/u/1/my-drive).
 
-The UHR datasets (~150G) could be downloaded in 15G increments at [BarcodesUHR00](https://drive.google.com/drive/u/3/my-drive), [BarcodesUHR01](), [BarcodesUHR02](), [BarcodesUHR03](), [BarcodesUHR04](), [BarcodesUHR05](https://drive.google.com/drive/u/4/my-drive), [BarcodesUHR06](https://drive.google.com/drive/u/6/my-drive), [BarcodesUHR07](https://drive.google.com/drive/u/7/my-drive), [BarcodesUHR08](https://drive.google.com/drive/u/8/my-drive), [BarcodesUHR09](), [BarcodesUHR10]().
+The UHR datasets (~150G) could be downloaded in 15G increments at [BarcodesUHR00](https://drive.google.com/drive/u/3/my-drive), [BarcodesUHR01](), [BarcodesUHR02](), [BarcodesUHR03](), [BarcodesUHR04](), [BarcodesUHR05](https://drive.google.com/drive/u/4/my-drive), [BarcodesUHR06](https://drive.google.com/drive/u/6/my-drive), [BarcodesUHR07](https://drive.google.com/drive/u/7/my-drive), [BarcodesUHR08](https://drive.google.com/drive/u/8/my-drive), [BarcodesUHR09](), [BarcodesUHR10](). 
+
+## How to recombine UHR datasts images
+1. Download all the individual UHR files into the same directory (ex. myDirectory/).
+2. In terminal, navigate the drectory location and run the Linux command: cat UHR* > UHR.tar.gz
+3. Decompress the recombined file with the Linux command tar -xvzf UHR.tar.gz -C myDatasetsDirectory
+
+
 
 ## Types of barcodes
 Code 39, Code 93, Code 128, UPC, EAN, PD417, ITF, Data Matrix, AZTEC, and QR among others.
