@@ -8,5 +8,5 @@ The LR datasets (~2.2G) could be downloaded here and here and the UHR datasets (
 
 The reference paper title "Fast, Accurate Barcode Detection in Ultra High-Resolution Images" by Quenum et al. introduced the dataset was submitted to to IEEE International Conference on Image Processing, September 2021, USA and coud be found here.
 
-
+https://user-images.githubusercontent.com/82744965/115137026-8f987480-9ff1-11eb-8628-d47f54d622d2.png
 
