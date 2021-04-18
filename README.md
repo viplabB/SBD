@@ -6,10 +6,12 @@ This barcode datasets contains:
 
 The LR datasets (~2.2G) could be downloaded here and here and the UHR datasets (~150G) could be downloaded here.
 
-The reference paper title "Fast, Accurate Barcode Detection in Ultra High-Resolution Images" by Quenum et al. introduced the dataset was submitted to to IEEE International Conference on Image Processing, September 2021, USA and coud be found here.
+The reference paper titled "Fast, Accurate Barcode Detection in Ultra High-Resolution Images" by Quenum et al. introduced the dataset was submitted to to IEEE International Conference on Image Processing, September 2021, USA and coud be found here.
 
 
 
 ## Sample UHR barcode synthesized image
 ![train_124](https://user-images.githubusercontent.com/82744965/115137026-8f987480-9ff1-11eb-8628-d47f54d622d2.png)
+
+
 
