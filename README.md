@@ -1,4 +1,4 @@
-# SBD 
+# BSBD (Berkeley Synthetic Barcode Datasets)
 
 ## Overview
 This barcode datasets contains:
