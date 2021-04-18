@@ -13,8 +13,8 @@ The UHR datasets (~150G) could be downloaded in 15G increments at [BarcodesUHR00
 
 ## How to recombine UHR datasts images
 1. Download all the individual UHR files into the same directory (ex. myDirectory/).
-2. In terminal, navigate the drectory location and run the Linux command: "cat UHR* > UHR.tar.gz"
-3. Decompress the recombined file with the Linux command "tar -xvzf UHR.tar.gz -C myDatasetsDirectory"
+2. In terminal, navigate the drectory location and run the Linux command: "cat UHR* > UHR.tar.gz".
+3. Decompress the recombined file with the Linux command "tar -xvzf UHR.tar.gz -C myDatasetsDirectory".
 
 
 
