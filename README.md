@@ -7,9 +7,9 @@ This barcode datasets contains:
 - 100,000 LR synthetic barcode datasets along with along with their corresponding bounding boxes ground truth masks.
 
 ## Size
-The LR datasets (~2.2G) could be downloaded here at [BarcodesLR](https://drive.google.com/drive/u/1/my-drive).
+The LR datasets (~2.2G) could be downloaded here at [BarcodesLR](https://drive.google.com/file/d/1q9AU1y9qs2yaAPe1K2a8Th5AFKm03_uZ/view?usp=sharing).
 
-The UHR datasets (~150G) could be downloaded in 12G increments at [BarcodesUHR00](https://drive.google.com/drive/u/3/my-drive), [BarcodesUHR01](), [BarcodesUHR02](), [BarcodesUHR03](), [BarcodesUHR04](), [BarcodesUHR05](https://drive.google.com/drive/u/4/my-drive), [BarcodesUHR06](https://drive.google.com/drive/u/6/my-drive), [BarcodesUHR07](https://drive.google.com/drive/u/7/my-drive), [BarcodesUHR08](https://drive.google.com/drive/u/8/my-drive), [BarcodesUHR09](), [BarcodesUHR10](). 
+The UHR datasets (~150G) could be downloaded in 15G increments at [BarcodesUHR00](https://drive.google.com/file/d/1Mxb3z9VnE-SRTlq4nqgPzeyrdxXH4hlj/view), [BarcodesUHR01](https://drive.google.com/file/d/18WQEHoiba7eHeoLtlkFvdIsurm3tTJNs/view), [BarcodesUHR02](), [BarcodesUHR03](), [BarcodesUHR04](https://drive.google.com/file/d/1nMKhPPv-Lyz0eAKgKCPNHUbsOMAyDPND/view?usp=sharing), [BarcodesUHR05](https://drive.google.com/drive/u/4/my-drive), [BarcodesUHR06](https://drive.google.com/file/d/106wr_Fmeayr0XQQJ54detgTPEe1T88E5/view?usp=sharing), [BarcodesUHR07](https://drive.google.com/file/d/1wxRrud2w8mI1wu5_dra6H5wXnBHlx-ya/view?usp=sharing), [BarcodesUHR08](), [BarcodesUHR09](), [BarcodesUHR10](https://drive.google.com/file/d/1KFmsr0P-YleN2q9YRmTGUZl7tJIpHUZ-/view?usp=sharing). 
 
 ## How to recombine UHR datasts images
 1. Download all the individual UHR files into the same directory (ex. myDirectory/).
