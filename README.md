@@ -1,4 +1,4 @@
-# SBD (Synthetic Barcode Datasets)
+# Synthetic Barcode Datasets (SBD)
 
 ## Overview
 This barcode datasets contains:
