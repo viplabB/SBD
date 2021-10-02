@@ -22,14 +22,19 @@ The UHR datasets (~150G) could be downloaded in 15G increments at [BarcodesUHR00
 Code 39, Code 93, Code 128, UPC, EAN, PD417, ITF, Data Matrix, AZTEC, and QR among others.
 
 ## Reference
-The paper titled "Fast, Accurate Barcode Detection in Ultra High-Resolution Images" by Quenum et al. introducing this dataset was submitted to IEEE International Conference on Image Processing, September 2021, USA and coud be found [here](https://arxiv.org/abs/2102.06868).
+The paper titled "Fast, Accurate Barcode Detection in Ultra High-Resolution Images" by Quenum et al. introducing this dataset was submitted to IEEE International Conference on Image Processing, September 2021, USA and coud be found [here](https://ieeexplore.ieee.org/document/9506134).
 
 ## Sample synthesized UHR barcode image
 ![train_124](https://user-images.githubusercontent.com/82744965/115137026-8f987480-9ff1-11eb-8628-d47f54d622d2.png)
 
 ## Citation
-J. Quenum, K. Wang and, A. Zakhor, ["Fast, Accurate Barcode Detection In Ultra High Resolution
-Images"](https://arxiv.org/abs/2102.06868) Submitted to IEEE International Conference on Image Processing, September 2021, USA.
+@INPROCEEDINGS{Quenum,
+  author={Quenum, Jerome and Wang, Kehan and Zakhor, Avideh},
+  booktitle={2021 IEEE International Conference on Image Processing (ICIP)}, 
+  title={Fast, Accurate Barcode Detection in Ultra High-Resolution Images}, 
+  year={2021},
+  pages={1019-1023},
+  doi={10.1109/ICIP42928.2021.9506134}}
 
 
 
