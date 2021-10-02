@@ -28,13 +28,7 @@ The paper titled "Fast, Accurate Barcode Detection in Ultra High-Resolution Imag
 ![train_124](https://user-images.githubusercontent.com/82744965/115137026-8f987480-9ff1-11eb-8628-d47f54d622d2.png)
 
 ## Citation
-@INPROCEEDINGS{Quenum,
-  author={Quenum, Jerome and Wang, Kehan and Zakhor, Avideh},
-  booktitle={2021 IEEE International Conference on Image Processing (ICIP)}, 
-  title={Fast, Accurate Barcode Detection in Ultra High-Resolution Images}, 
-  year={2021},
-  pages={1019-1023},
-  doi={10.1109/ICIP42928.2021.9506134}}
+J. Quenum, K. Wang and A. Zakhor, "Fast, Accurate Barcode Detection in Ultra High-Resolution Images," 2021 IEEE International Conference on Image Processing (ICIP), 2021, pp. 1019-1023, doi: 10.1109/ICIP42928.2021.9506134.
 
 
 
