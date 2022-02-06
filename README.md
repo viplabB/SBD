@@ -13,7 +13,7 @@ The UHR datasets (~150G) could be downloaded in 15G increments at [BarcodesUHR00
 
 ## How to recombine UHR datasts images
 1. Download all the individual UHR files into the same directory (ex. myDirectory/).
-2. In terminal, navigate the drectory location and run the Linux command: "cat UHR* > UHR.tar.gz".
+2. In terminal, navigate the directory location and run the Linux command: "cat UHR* > UHR.tar.gz".
 3. Decompress the recombined file with the Linux command "tar -xvzf UHR.tar.gz -C myDatasetsDirectory".
 
 
@@ -29,6 +29,5 @@ The paper titled "Fast, Accurate Barcode Detection in Ultra High-Resolution Imag
 
 ## Citation
 J. Quenum, K. Wang and A. Zakhor, "Fast, Accurate Barcode Detection in Ultra High-Resolution Images," 2021 IEEE International Conference on Image Processing (ICIP), 2021, pp. 1019-1023, doi: 10.1109/ICIP42928.2021.9506134.
-
 
 
